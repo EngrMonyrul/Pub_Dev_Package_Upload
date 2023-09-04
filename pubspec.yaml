@@ -1,6 +1,6 @@
 name: overlay_on_widget
 description: This is a new flutter package, by using this you can make a overlay on any widget.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/EngrMonyrul/overlay_on_widget
 
 environment:

@@ -20,7 +20,7 @@ A Flutter package for adding overlay widgets on top of other widgets with ease.
 1. Add this to your `pubspec.yaml`:
 ```yaml
 dependencies:
-  overlay_on_widget: ^0.0.2 # Use the latest version from pub.dev
+  overlay_on_widget: ^0.0.3 # Use the latest version from pub.dev
 ```
 
 2. Install the package by running:
@@ -46,7 +46,7 @@ Here's an example:
 Container(
   decoration: ShapeDecoration(
   color: Colors.blue,
-  shape: CustomCutoutShapeBorder(
+  shape: OverlayOnWidget(
     CutoutScreenArea(
       borderColor: Colors.red,
       borderWidth: 3.0,
