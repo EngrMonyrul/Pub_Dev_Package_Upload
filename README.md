@@ -20,7 +20,7 @@ A Flutter package for adding overlay widgets on top of other widgets with ease.
 1. Add this to your `pubspec.yaml`:
 ```yaml
 dependencies:
-  overlay_on_widget: ^0.0.3 # Use the latest version from pub.dev
+  overlay_on_widget: ^0.0.5 # Use the latest version from pub.dev
 ```
 
 2. Install the package by running:
@@ -38,10 +38,13 @@ import 'package:overlay_on_widget/overlay_on_widget.dart';
 dart pub add overlay_on_widget
 ```
 
-Usage:
+## Usage:
+```text
 Overlaying a Widget
 To overlay a widget on top of another widget, you can use the OverlayOnWidget widget. 
-Here's an example:
+```
+
+### Here's an example:
 ```dart
 Container(
   decoration: ShapeDecoration(
@@ -61,7 +64,7 @@ Container(
 ),
 ```
 
-Example:
+## Example:
 ```dart
 import 'package:flutter/material.dart';
 
@@ -114,28 +117,49 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-Changelog:
+## Changelog:
+```text
 See the Changelog file for detailed changes and version history.
+```
 
-Roadmap:
+## Roadmap:
+```text
 Add support for customizing overlay on any widget.
 Enhance overlay positioning options.
 Provide additional examples and use cases.
+```
 
-Issues and Feedback:
+## Issues and Feedback:
+```text
 Please report any issues or provide feedback on GitHub Issues.
+```
 
-Contributing:
+## Contributing:
+```text
 Contributions are welcome! Follow the Contributing Guide to get started.
+```
 
-License:
+## License:
+```text
 This package is open-source and available under the MIT License.
+```
 
-Author:
+## Author:
+```text
 Monirul Islam (+8801729602502 - WhatsApp)
+```
 
-GitHub:
+## GitHub:
+```text
 https://github.com/EngrMonyrul
+```
 
-Support:
+## Support:
+```text
 For any inquiries or support, you can reach out to [engrmonirulislam513@gmail.com].
+```
+
+## Location:
+```text
+Dhaka, Bangladesh
+```
